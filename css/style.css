@@ -1,0 +1,26 @@
+body {
+  background-color: #FFF89A;
+}
+
+hr {
+  border-color: #072227;
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 20px;
+}
+
+h1 {
+  text-shadow: 0.9px 0.9px;
+  text-decoration: underline;
+  color: #FF4C29
+}
+
+h3 {
+  text-shadow: 0.5px 0.9px;
+  color: #FF4C29
+}
+
+table{
+  border-collapse:collapse;
+}
